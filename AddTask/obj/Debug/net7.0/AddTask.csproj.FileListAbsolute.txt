@@ -1,0 +1,15 @@
+C:\Users\iAleksus\Desktop\DZ-Seminar3\AddTask\bin\Debug\net7.0\AddTask.exe
+C:\Users\iAleksus\Desktop\DZ-Seminar3\AddTask\bin\Debug\net7.0\AddTask.deps.json
+C:\Users\iAleksus\Desktop\DZ-Seminar3\AddTask\bin\Debug\net7.0\AddTask.runtimeconfig.json
+C:\Users\iAleksus\Desktop\DZ-Seminar3\AddTask\bin\Debug\net7.0\AddTask.dll
+C:\Users\iAleksus\Desktop\DZ-Seminar3\AddTask\bin\Debug\net7.0\AddTask.pdb
+C:\Users\iAleksus\Desktop\DZ-Seminar3\AddTask\obj\Debug\net7.0\AddTask.csproj.AssemblyReference.cache
+C:\Users\iAleksus\Desktop\DZ-Seminar3\AddTask\obj\Debug\net7.0\AddTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iAleksus\Desktop\DZ-Seminar3\AddTask\obj\Debug\net7.0\AddTask.AssemblyInfoInputs.cache
+C:\Users\iAleksus\Desktop\DZ-Seminar3\AddTask\obj\Debug\net7.0\AddTask.AssemblyInfo.cs
+C:\Users\iAleksus\Desktop\DZ-Seminar3\AddTask\obj\Debug\net7.0\AddTask.csproj.CoreCompileInputs.cache
+C:\Users\iAleksus\Desktop\DZ-Seminar3\AddTask\obj\Debug\net7.0\AddTask.dll
+C:\Users\iAleksus\Desktop\DZ-Seminar3\AddTask\obj\Debug\net7.0\refint\AddTask.dll
+C:\Users\iAleksus\Desktop\DZ-Seminar3\AddTask\obj\Debug\net7.0\AddTask.pdb
+C:\Users\iAleksus\Desktop\DZ-Seminar3\AddTask\obj\Debug\net7.0\AddTask.genruntimeconfig.cache
+C:\Users\iAleksus\Desktop\DZ-Seminar3\AddTask\obj\Debug\net7.0\ref\AddTask.dll
